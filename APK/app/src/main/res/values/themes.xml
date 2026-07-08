@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UFLIX" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#E50914</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+</resources>

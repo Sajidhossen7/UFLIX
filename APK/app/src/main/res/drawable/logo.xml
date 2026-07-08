@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="512"
+    android:viewportHeight="256">
+    <!-- Letter U -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M30,50 V150 C30,180 50,200 80,200 C110,200 130,180 130,150 V50 H105 V150 C105,165 95,175 80,175 C65,175 55,165 55,150 V50 H30 Z" />
+    <!-- Letter F -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M150,50 V200 H175 V135 H220 V110 H175 V75 H225 V50 H150 Z" />
+    <!-- Letter L -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M245,50 V200 H315 V175 H270 V50 H245 Z" />
+    <!-- Letter I -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M330,50 V200 H355 V50 H330 Z" />
+    <!-- Letter X -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M375,50 L415,125 L375,200 H405 L430,155 L455,200 H485 L445,125 L485,50 H455 L430,95 L405,50 H375 Z" />
+</vector>
